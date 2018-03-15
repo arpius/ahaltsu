@@ -43,7 +43,7 @@ def exercises(bot, update):
 
 
 def main():
-    updater = Updater('532909960:AAHUFwcYrqIFSnpHnH2Ikdsf_v0BHNmN0ug')
+    updater = Updater('YOUR-TOKEN')
     dispatcher = updater.dispatcher
 
     echo_handler = MessageHandler(Filters.text, echo)
