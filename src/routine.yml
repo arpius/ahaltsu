@@ -1,0 +1,59 @@
+---
+    monday:
+        exercises:
+            - squat:
+                description: simple squat
+                muscle_group: lower extremity
+                series: 3
+                replays: 10
+            - single_leg_squat:
+                description: squat on one leg 
+                muscle_group: lower extremity
+                series: 2
+                replays: 10
+
+    tuesday:
+        exercises:
+            - press:
+                description: chest press
+                muscle_group: upper extremity
+                series: 3
+                replays: 10
+            - back_row:
+                description: back row
+                muscle_group: upper extremity
+                series: 3
+                replays: 10
+
+    wednesday:
+        exercises:
+            - rest
+
+    thursday:
+        exercises:
+            - plank:
+                description: plank
+                muscle_group: core
+                series: 3
+                replays: 10
+            - side_plank:
+                description: side plank
+                muscle_group: core
+                series: 2
+                replays: 10
+
+    friday:
+        exercises:
+            - mountain_climbers:
+                description: mountain climbers
+                muscle_group: lower extremity
+                series: 3
+                replays: 10
+    
+    saturday:
+        exercises:
+            - rest
+    
+    sunday:
+        exercises:
+            - rest
